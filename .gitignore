@@ -54,3 +54,6 @@ local.properties
 *.ipr
 *.iws
 .idea/
+
+# Jekyll
+_site
