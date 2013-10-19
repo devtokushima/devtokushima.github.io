@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 title: '徳島IT開発勉強会'
 ---
 
