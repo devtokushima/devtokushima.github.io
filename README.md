@@ -21,3 +21,11 @@ devtokushima.github.io
 Jekyll をローカルで使い GitHub Page で表示されるものを確認する方法
 
 * [github-pages Gem というのが用意された - Github Page で使う gem のバージョンをあわせてくれる - そんなこと覚えてない](http://blog.eiel.info/blog/2013/08/13/github-pages-gem/)
+
+## Contributing (貢献方法)
+
+1. Fork it (フォークする)
+2. Create your feature branch (作りたい機能のためのブランチを作成) (`git checkout -b new-awesome-feature`)
+3. Commit your changes (変更をコミット) (`git commit -am 'add a new awesome feature!'`)
+4. Push to the branch (リモートブランチにプッシュ) (`git push origin new-awesome-feature`)
+5. Create a new Pull Request (新規プルリクエストを作成)
