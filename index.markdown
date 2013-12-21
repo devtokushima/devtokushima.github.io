@@ -19,3 +19,7 @@ title: '徳島IT開発勉強会'
 [Google](https://plus.google.com/communities/101018941600675088507?hl=ja)
 [Facebook](https://www.facebook.com/groups/475602005861175/)
 [lingr](http://lingr.com/room/devtokushima)
+
+## 成果
+
+[発表資料](slides.html)
