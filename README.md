@@ -1,7 +1,7 @@
 devtokushima.github.io
 ======================
 
-devtokushima.github.io
+http://devtokushima.github.io
 
 ## Development (開発方法)
 
