@@ -17,4 +17,6 @@ title: '徳島IT開発勉強会 - 発表資料'
 * [krdlab](http://www.slideshare.net/krdlab): [2013-12-21 Streaming data processing ライブラリの紹介 (主に Conduit)](http://www.slideshare.net/krdlab/haskell-streamlibraries)
 * [ka](http://kaosfield.net): [2014-02-09 Clojure Getting Started](http://kaosf.github.io/20140209-clojure-getting-started)
 * [Sert](https://github.com/sert-uw): [2014-02-16 SoundReappearance](http://sert-uw.github.io/SoundReappearance-Slide)
+* [ka](http://kaosfield.net): [2014-02-16 Clojure Destructuring - 分配束縛](http://kaosf.github.io/20140216-clojure-destructuring)
 * [krdlab](https://github.com/krdlab): [2014-02-16 Scotty を用いた "ゆるふわ" Web サービス作成](http://www.slideshare.net/krdlab/haskell-simplewebapp)
+* [ka](http://kaosfield.net): [2014-02-16 Clojure TCO - 末尾再帰最適化](https://gist.github.com/kaosf/9031194)
