@@ -16,3 +16,4 @@ title: '徳島IT開発勉強会 - 発表資料'
 * [ka](http://kaosfield.net): [2013-12-21 Clojure macro](http://kaosf.github.io/20131221-clojure-macro)
 * [krdlab](http://www.slideshare.net/krdlab): [2013-12-21 Streaming data processing ライブラリの紹介 (主に Conduit)](http://www.slideshare.net/krdlab/haskell-streamlibraries)
 * [ka](http://kaosfield.net): [2014-02-09 Clojure Getting Started](http://kaosf.github.io/20140209-clojure-getting-started)
+* [Sert](https://github.com/sert-uw): [2014-02-16 SoundReappearance](http://sert-uw.github.io/SoundReappearance-Slide)
