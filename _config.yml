@@ -1,0 +1,1 @@
+exclude: ['.bundle', '.git', '.gitignore', 'Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', 'vendor']

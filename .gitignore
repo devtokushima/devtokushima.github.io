@@ -57,3 +57,6 @@ local.properties
 
 # Jekyll
 _site
+
+# Bundler
+vendor
