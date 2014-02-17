@@ -6,7 +6,7 @@ http://devtokushima.github.io
 ## Development (開発方法)
 
 1. Ruby をインストールする
-2. `gem install bundler`
+2. `gem install bundler --no-ri --no-rdoc`
 3. `bundle install --path vendor/bundle` をこのリポジトリのディレクトリ内で実行
 4. `bundle exec jekyll serve --watch`
 5. ウェブブラウザで [http://localhost:4000](http://localhost:4000) にアクセス
