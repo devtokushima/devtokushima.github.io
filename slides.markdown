@@ -20,3 +20,4 @@ title: '徳島IT開発勉強会 - 発表資料'
 * [ka](http://kaosfield.net): [2014-02-16 Clojure Destructuring - 分配束縛](http://kaosf.github.io/20140216-clojure-destructuring)
 * [krdlab](https://github.com/krdlab): [2014-02-16 Scotty を用いた "ゆるふわ" Web サービス作成](http://www.slideshare.net/krdlab/haskell-simplewebapp)
 * [ka](http://kaosfield.net): [2014-02-16 Clojure TCO - 末尾再帰最適化](https://gist.github.com/kaosf/9031194)
+* [ggkuron](https://github.com/ggkuron): [2014-02-16 ゆるふわHaskell入門](https://ggkuron.github.io/haskell-getting-started)
