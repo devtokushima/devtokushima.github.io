@@ -22,4 +22,4 @@ title: '徳島IT開発勉強会 - 発表資料'
 * [ka](http://kaosfield.net): [2014-02-16 Clojure TCO - 末尾再帰最適化](https://gist.github.com/kaosf/9031194)
 * [ggkuron](https://github.com/ggkuron): [2014-02-16 ゆるふわHaskell入門](https://ggkuron.github.io/haskell-getting-started)
 * [ka](http://kaosfield.net): [2014-08-31 Ruby入門](https://kaosf.github.io/20140831-tokushimarb-slide) ※第1回tokushima.rbでの発表です
-* [ka](http://kaosfield.net): [2014-08-31 Ruby超入門](https://kaosf.github.io/20140928-tokushimarb-slide) ※第2回tokushima.rbでの発表です
+* [ka](http://kaosfield.net): [2014-09-28 Ruby超入門](https://kaosf.github.io/20140928-tokushimarb-slide) ※第2回tokushima.rbでの発表です
