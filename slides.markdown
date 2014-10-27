@@ -23,3 +23,4 @@ title: '徳島IT開発勉強会 - 発表資料'
 * [ggkuron](https://github.com/ggkuron): [2014-02-16 ゆるふわHaskell入門](https://ggkuron.github.io/haskell-getting-started)
 * [ka](http://www.kaosfield.net): [2014-08-31 Ruby入門](https://kaosf.github.io/20140831-tokushimarb-slide) ※第1回tokushima.rbでの発表です
 * [ka](http://www.kaosfield.net): [2014-09-28 Ruby超入門](https://kaosf.github.io/20140928-tokushimarb-slide) ※第2回tokushima.rbでの発表です
+* [ka](http://www.kaosfield.net): [2014-10-26 method_missing](http://kaosf.github.io/20141026-tokushimarb-slide) ※第3回tokushima.rbでの発表です
