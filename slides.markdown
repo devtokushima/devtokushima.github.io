@@ -20,7 +20,7 @@ title: '徳島IT開発勉強会 - 発表資料'
 * [ka](http://www.kaosfield.net): [2014-02-16 Clojure Destructuring - 分配束縛](http://kaosf.github.io/20140216-clojure-destructuring)
 * [krdlab](https://github.com/krdlab): [2014-02-16 Scotty を用いた "ゆるふわ" Web サービス作成](http://www.slideshare.net/krdlab/haskell-simplewebapp)
 * [ka](http://www.kaosfield.net): [2014-02-16 Clojure TCO - 末尾再帰最適化](https://gist.github.com/kaosf/9031194)
-* [ggkuron](https://github.com/ggkuron): [2014-02-16 ゆるふわHaskell入門](https://ggkuron.github.io/haskell-getting-started)
-* [ka](http://www.kaosfield.net): [2014-08-31 Ruby入門](https://kaosf.github.io/20140831-tokushimarb-slide) ※第1回tokushima.rbでの発表です
-* [ka](http://www.kaosfield.net): [2014-09-28 Ruby超入門](https://kaosf.github.io/20140928-tokushimarb-slide) ※第2回tokushima.rbでの発表です
+* [ggkuron](https://github.com/ggkuron): [2014-02-16 ゆるふわHaskell入門](http://ggkuron.github.io/haskell-getting-started)
+* [ka](http://www.kaosfield.net): [2014-08-31 Ruby入門](http://kaosf.github.io/20140831-tokushimarb-slide) ※第1回tokushima.rbでの発表です
+* [ka](http://www.kaosfield.net): [2014-09-28 Ruby超入門](http://kaosf.github.io/20140928-tokushimarb-slide) ※第2回tokushima.rbでの発表です
 * [ka](http://www.kaosfield.net): [2014-10-26 method_missing](http://kaosf.github.io/20141026-tokushimarb-slide) ※第3回tokushima.rbでの発表です
