@@ -24,3 +24,4 @@ title: '徳島IT開発勉強会 - 発表資料'
 * [ka](http://www.kaosfield.net): [2014-08-31 Ruby入門](http://kaosf.github.io/20140831-tokushimarb-slide) ※第1回tokushima.rbでの発表です
 * [ka](http://www.kaosfield.net): [2014-09-28 Ruby超入門](http://kaosf.github.io/20140928-tokushimarb-slide) ※第2回tokushima.rbでの発表です
 * [ka](http://www.kaosfield.net): [2014-10-26 method_missing](http://kaosf.github.io/20141026-tokushimarb-slide) ※第3回tokushima.rbでの発表です
+* [ka](http://www.kaosfield.net): [2014-11-08 reduce](http://kaosf.github.io/20141108-kamiyamarb-slide) ※第1回神山.rbでの発表(LT)です
